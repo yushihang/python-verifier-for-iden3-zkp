@@ -2,6 +2,7 @@ import base64
 import json
 import subprocess
 
+## https://iden3-circuits-bucket.s3.eu-west-1.amazonaws.com/feature/trusted-setup-v1.0.0.zip
 
 def run_command(command):
     try:
